@@ -33,9 +33,3 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
 <h2>🦄 Autor</h2>
         <h2>🦄 Alicia e Fred </h2>
-
-
-
-    
-
-        
