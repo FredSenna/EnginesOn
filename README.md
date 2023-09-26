@@ -32,14 +32,10 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 ---
 
 <h2>🦄 Autor</h2>
-         Alicia e Frederik
+        <h2>🦄 Alicia e Fred </h2>
 
 
 
     
 
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+        
